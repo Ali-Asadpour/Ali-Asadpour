@@ -11,16 +11,12 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" >
 
 ## Social:
-<a href="https://instagram.com/_ali.asadpour_/"  target="_blank">
-    <img src="./icons/instagram.png">
-</a> <a href="https://t.me/Ali11Asad/" target="_blank" >
-    <img src="./icons/telegram.png">
-</a> <a href="https://whatsapp.com/dl/code=r796xDFbY6" target="_blank" >
-    <img src="./icons/whatsapp.png">
-</a>
+[<img src="./icons/instagram.png">](https://instagram.com/_ali.asadpour_/)
+[<img src="./icons/telegram.png">](https://t.me/Ali11Asad/)
+[<img src="./icons/whatsapp.png">](https://whatsapp.com/dl/code=r796xDFbY6)
 
 ## Github Stats:
-<a href="https://github.com/sabzlearn-ir">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Asadpour" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Asadpour&show_icons=true&theme=radical" />
-</a>
+</p>
