@@ -1,5 +1,5 @@
 ## Who am I?
-##### Hellow, I am Ali Asadpour, Frontend and python developer, I love learning and new challenges!
+##### Hellow, I am Ali Asadpour, I have been working in programming for about three years, first I started with Python, then I moved to the front end, I love learning and new challenges!
 
 ## What do I use?
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > 
