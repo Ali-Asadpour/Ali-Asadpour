@@ -28,6 +28,5 @@
 
 ## Github Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Asadpour" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Asadpour&show_icons=true&theme=radical" />
 </p>
