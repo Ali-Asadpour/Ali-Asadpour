@@ -16,6 +16,7 @@
 <ul>
 <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" ></li>
 <li><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" ></li>
+<li><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"></li>
 <!-- <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" ></li> -->
 <li><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" ></li>
 
